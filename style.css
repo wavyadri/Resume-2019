@@ -1,3 +1,8 @@
+.small
+{
+    font-size: 14px;
+}
+
 /* Dark Mode */
 .dark-mode {
     background-color: #18191a;
