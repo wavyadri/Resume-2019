@@ -56,6 +56,17 @@ li .pop {
     padding: 2px 9px;
 }
 
+/* Toggle Dark Mode */
+.btn-4 {
+    padding: 2px 9px;
+    margin-bottom: 4px;
+}
+
+/* PDF Resume */
+.btn-5 {
+    padding: 2px 25.5px;
+}
+
 /* Text Styles */
 h1 {
     font-size: 28px;
