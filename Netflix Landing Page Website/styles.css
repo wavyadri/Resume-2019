@@ -329,6 +329,10 @@ img {
     height: 70vh;
   }
 
+  .showcase-content {
+    margin-top: 5rem;
+  }
+
   /* hides text under tab icons */
   .hide-sm {
     display: none;
